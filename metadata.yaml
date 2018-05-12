@@ -1,0 +1,47 @@
+_repo: The-Lusiad--Or-The-Discovery-of-India-an-Epic-Poem_32528
+_version: 0.1.0
+alternative_title: Os Lusíadas. English
+contributor:
+  translator:
+    agent_name: Mickle, William Julius
+    birthdate: 1735
+    deathdate: 1788
+    gutenberg_agent_id: '35901'
+    url: http://www.gutenberg.org/2009/agents/35901
+    wikipedia: http://en.wikipedia.org/wiki/William_Julius_Mickle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camões, Luís de
+    aliases:
+    - Camões,  Luís Vas de
+    - Camoes, Luis de
+    - Camões, Luís Vaz de
+    deathdate: 1580
+    gutenberg_agent_id: '1183'
+    url: http://www.gutenberg.org/2009/agents/1183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+    - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
+description: ''
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32528'
+  lccn: '33038284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Portuguese -- Translations into English'
+- !lcsh 'India -- Discovery and exploration -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'Gama, Vasco da, 1469-1524 -- Poetry'
+- !lcsh 'Explorers -- Portugal -- Poetry'
+- !lcsh 'Portugal -- Colonies -- Asia -- Poetry'
+- !lcsh 'Portuguese poetry -- Classical period, 1500-1700 -- Translations into English'
+title: The Lusiad; Or, The Discovery of India, an Epic Poem
+url: http://www.gutenberg.org/ebooks/32528
